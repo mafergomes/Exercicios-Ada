@@ -1,0 +1,11 @@
+Sequência de Fibonacci
+A sequência de Fibonacci tem aplicações na análise de mercados financeiros, 
+na ciência da computação e até na teoria dos jogos. Trata-se de uma 
+sequência infinita, de números inteiros, iniciada em 0, 1, e na qual cada 
+termo subsequente corresponde à soma dos dois anteriores, como por 
+exemplo: 0, 1, 1, 2, 3, 5.
+
+Escreva um função que recebe um número inteiro e retorne a sequencia 
+Fibonacci iniciando em 0, 1 até o número inteiro indicado ou até o número 
+mais próximo à ele.
+

@@ -1,0 +1,10 @@
+Arrays, Ordenação, Operações aritméticas
+Uma loja de roupas decidiu aquecer suas vendas lançando uma promoção
+com descontos especiais para clientes que comprassem mais de uma peça.
+As condições da promoção dizem que, na compra de duas peças, será dado
+50% de desconto na peça de menor de valor.
+
+Escreva uma função que receba um array contendo o preço das peças
+de um cliente e calcule o valor total sem descontos, o valor total
+de descontos, e o valor total a pagar. A saída da função deve ser
+uma string.

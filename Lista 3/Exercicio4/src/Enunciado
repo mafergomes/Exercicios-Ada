@@ -1,0 +1,19 @@
+Condicionais e Operadores
+Uma professora está precisando de ajuda para calcular a nota de seus alunos.
+Os seus critérios de avaliação usam um sistema de notas ponderadas. Cada aluno
+possui 3 notas e também uma média de exercícios. Baseados nessas notas é 
+calculado a média de aproveitamento seguindo a formula abaixo:
+
+media_aproveitamento = (N1 + N22 + N33 + media_exercicios)/7
+
+Após a obtenção de média de aproveitamento do aluno é determinado o 
+conceito dele, seguindo os seguintes critérios:
+
+média >= 9,0 => conceito A
+média >= 7,5 e < 9,0 => conceito B
+média >= 6,0 e < 7,5 => conceito C
+média < 6,0 => conceito D
+Para ajudar a professora com a sua turma, crie uma função que 
+receba um array com as notas dos alunos (as três primeiras notas 
+correspondem a N1, N2 e N3 e a última posição, a médias dos exercícios) 
+e calcule a média de aproveitamento e retorne o conceito que o aluno obteve.

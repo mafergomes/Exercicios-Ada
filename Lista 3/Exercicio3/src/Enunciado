@@ -1,0 +1,8 @@
+Operadores
+Um certo dia, Joãozinho chegou em casa e perguntou para sua mãe 
+quantos dias ele tinha de vida. A mãe disse que esse era um dado 
+que ela tinha que parar para fazer a conta. Para ajudar a mãe de 
+Joãozinho, crie uma função que recebe a idade expressa em anos, meses 
+e dias (os dados de entradas estarão contidos em um array) e retorne 
+a idade da pessoa expressa em dias. Considerar o ano como tendo um 
+total de 365 dias, e o mês como tendo um total de 30 dias.

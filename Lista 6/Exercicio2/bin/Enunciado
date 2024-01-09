@@ -1,0 +1,4 @@
+Substrings
+Crie uma função que recebe uma string e retorna o índice
+ do primeiro caractere não repetido da string. Caso não 
+ exista caractere único na palavra em questão, retornar -1.

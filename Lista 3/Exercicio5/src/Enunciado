@@ -1,0 +1,6 @@
+Substrings
+Dado um array como entrada, onde existe um único número 
+distinto neste array, os demais são repetidos (uma ou 
+mais vezes). Crie uma função para encontrar o número que 
+é único e retorna-lo. Caso nenhum número seja encontrado, 
+então a função deve retornar o número -1 como resposta.

@@ -1,0 +1,8 @@
+Condicionais, Operadores
+Crie uma função que receberá um array com três valores que
+correspondem a possíveis lados de um triângulo. Na função, validar 
+se os dados fornecidos formam um triângulo. Caso afirmativo, retornar 
+true; do contrario, retornar false.
+
+OBS: para formar um triângulo, o valor de cada lado deve ser menor 
+que a soma dos outros 2 lados.
