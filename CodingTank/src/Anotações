@@ -1,0 +1,61 @@
+-Aula 1
+
+1. Paradigmas de programção
+2. Indrodução ao Java
+3. Hello World
+4. Tipos primitivos e variaveis
+5. Operadores Aritmeticos
+6. Exercicios
+
+- Tipos Primitivos e Variáveis
+1. boolean 
+    só pode ter true ou false
+2. byte
+    o menor do java, para poucos valores
+    1 byte = 8 bits
+    byte b = -128 até 127
+3. short
+    2 bytes
+    short s = -32768 até 32767
+4. int
+    4 bytes
+5. long
+    8 bytes
+6. float
+    4 bytes
+7. double
+    8 bytes
+8. char
+    2 bytes, mas abrange só valores positivos
+9. String (não é um tipo primitivo)
+    conjunto de chars
+
+- Operadores Aritmeticos
+    + - * / %
+
+    i++ = incrementa e depois da o valor
+    ++i = da o valor e depois incrementa
+
+AULA 2 
+
+-Entrada de dados
+    Scanner s = new Scanner(System.in);
+    Lista pode dados duplicados
+    Conjunto não pode
+
+AULA 3
+
+operadores logicos
+    && E todos precisam ser verdade
+    || OU pelo menos um precisa ser verdade
+
+funções (metodos)
+
+
+arrays
+    int[] exemplo = new int[10];
+    int[] exemplo2 = {5}; //um array de um posição com 5
+    int[] exemplo3 = null;
+    
+    imprimir arrays
+        System.out.println(Arrays.toString(exemplo));
